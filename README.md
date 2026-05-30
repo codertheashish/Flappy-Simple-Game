@@ -1,7 +1,3 @@
-# Flappy_simple_game
-A polished Flappy Bird game built in Python using Pygame. Features smooth bird physics, animated pipes, score system, level speed-up, and a unique rain-bird animation during the Game Over screen. Includes clean UI, collision detection, restart/exit options, and simple controls for an enjoyable experience.
----
-
 # 🐦 Flappy Bird (Python + Pygame)
 
 ### Clean Gameplay • Smooth Physics • Rain Animation After Game Over
