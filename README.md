@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird (Python + Pygame)
+# 🐦 Flappy Bird
 
 ### Clean Gameplay • Smooth Physics • Rain Animation After Game Over
 
