@@ -140,3 +140,4 @@ The game shows:
 **Ashish Kumar Prajapati**
 
 ---
+<img width="1536" height="1024" alt="Flappy_simple_game" src="https://github.com/user-attachments/assets/644e294f-7223-44b2-8373-ff7da343ad1e" />
